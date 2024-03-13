@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DataBaseSql</string>
+    <string name="ajouter_a_la_base">Ajouter à la Base</string>
+</resources>
